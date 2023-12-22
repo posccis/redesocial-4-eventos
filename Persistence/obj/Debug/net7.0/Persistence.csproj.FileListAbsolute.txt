@@ -1,0 +1,15 @@
+D:\victor\estudos\programming\Reactivities\Persistence\bin\Debug\net7.0\Persistence.deps.json
+D:\victor\estudos\programming\Reactivities\Persistence\bin\Debug\net7.0\Persistence.dll
+D:\victor\estudos\programming\Reactivities\Persistence\bin\Debug\net7.0\Persistence.pdb
+D:\victor\estudos\programming\Reactivities\Persistence\bin\Debug\net7.0\Domain.dll
+D:\victor\estudos\programming\Reactivities\Persistence\bin\Debug\net7.0\Domain.pdb
+D:\victor\estudos\programming\Reactivities\Persistence\obj\Debug\net7.0\Persistence.csproj.AssemblyReference.cache
+D:\victor\estudos\programming\Reactivities\Persistence\obj\Debug\net7.0\Persistence.GeneratedMSBuildEditorConfig.editorconfig
+D:\victor\estudos\programming\Reactivities\Persistence\obj\Debug\net7.0\Persistence.AssemblyInfoInputs.cache
+D:\victor\estudos\programming\Reactivities\Persistence\obj\Debug\net7.0\Persistence.AssemblyInfo.cs
+D:\victor\estudos\programming\Reactivities\Persistence\obj\Debug\net7.0\Persistence.csproj.CoreCompileInputs.cache
+D:\victor\estudos\programming\Reactivities\Persistence\obj\Debug\net7.0\Persistence.csproj.CopyComplete
+D:\victor\estudos\programming\Reactivities\Persistence\obj\Debug\net7.0\Persistence.dll
+D:\victor\estudos\programming\Reactivities\Persistence\obj\Debug\net7.0\refint\Persistence.dll
+D:\victor\estudos\programming\Reactivities\Persistence\obj\Debug\net7.0\Persistence.pdb
+D:\victor\estudos\programming\Reactivities\Persistence\obj\Debug\net7.0\ref\Persistence.dll
