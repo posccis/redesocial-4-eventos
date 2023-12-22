@@ -1,0 +1,12 @@
+D:\victor\estudos\programming\Reactivities\Domain\bin\Debug\net7.0\Domain.deps.json
+D:\victor\estudos\programming\Reactivities\Domain\bin\Debug\net7.0\Domain.dll
+D:\victor\estudos\programming\Reactivities\Domain\bin\Debug\net7.0\Domain.pdb
+D:\victor\estudos\programming\Reactivities\Domain\obj\Debug\net7.0\Domain.csproj.AssemblyReference.cache
+D:\victor\estudos\programming\Reactivities\Domain\obj\Debug\net7.0\Domain.GeneratedMSBuildEditorConfig.editorconfig
+D:\victor\estudos\programming\Reactivities\Domain\obj\Debug\net7.0\Domain.AssemblyInfoInputs.cache
+D:\victor\estudos\programming\Reactivities\Domain\obj\Debug\net7.0\Domain.AssemblyInfo.cs
+D:\victor\estudos\programming\Reactivities\Domain\obj\Debug\net7.0\Domain.csproj.CoreCompileInputs.cache
+D:\victor\estudos\programming\Reactivities\Domain\obj\Debug\net7.0\Domain.dll
+D:\victor\estudos\programming\Reactivities\Domain\obj\Debug\net7.0\refint\Domain.dll
+D:\victor\estudos\programming\Reactivities\Domain\obj\Debug\net7.0\Domain.pdb
+D:\victor\estudos\programming\Reactivities\Domain\obj\Debug\net7.0\ref\Domain.dll
